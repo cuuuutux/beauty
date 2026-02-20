@@ -1,9 +1,9 @@
 ## Beauty
 HTML / CSS を使用して制作した静的webサイトです。
-https://cuuuutux.github.io/beauty/
 
 ## 概要
 ポートフォリオ用として、シンプルな構成(初級)のwebサイトを制作しました。
+https://cuuuutux.github.io/beauty/
 
 ## 使用技術
 -HTML
