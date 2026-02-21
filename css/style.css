@@ -371,4 +371,7 @@ a:hover {
         padding: 15px 0;
         max-width: 80px;
     }
+    #footer .logo {
+        max-width: 80px;
+    }
 }
